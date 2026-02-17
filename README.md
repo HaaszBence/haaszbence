@@ -5,10 +5,10 @@ I'm a student learning 🌟networking🌟 and a hobbyist 🌟coder🌟. I love b
 
 ---
 ### 🛠 Tech Stack
-- **Languages** 
-<img src="assets/images/python_icon.png" alt="python_icon" width="50" height="50"> <img src="assets/images/sql_icon.png" alt="sql_icon" width="50" height="50">
-- **Tools:**
-<img src="assets/images/git_icon.png" alt="git_icon" width="50" height="50"> <img src="assets/images/docker_icon.png" alt="docker_icon" width="50" height="50"> <img src="assets/images/linux_icon.png" alt="linux_icon" width="50" height="50">
+- **Languages**
+	<img src="assets/images/python_icon.png" alt="python_icon" width="50" height="50"> <img src="assets/images/sql_icon.png" alt="sql_icon" width="50" height="50">
+- **Tools**
+	<img src="assets/images/git_icon.png" alt="git_icon" width="50" height="50"> <img src="assets/images/docker_icon.png" alt="docker_icon" width="50" height="50"> <img src="assets/images/linux_icon.png" alt="linux_icon" width="50" height="50">
 ---
 ### 📚 Currently Learning
 | <img src="assets/images/django_icon.png" alt="django_icon" width="50" height="50"> | <img src="assets/images/scripting_icon.png" alt="scripting_icon" width="50" height="50"> | <img src="assets/images/networking_icon.png" alt="networking_icon" width="50" height="50"> |
@@ -28,5 +28,3 @@ I'm a student learning 🌟networking🌟 and a hobbyist 🌟coder🌟. I love b
 ### 📫 Reach out to Me
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaaszBence)
 [![Email](https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](haasz0.bence+github@gmail.com)
----
->>>>>>> 969bb7c (feat: updated README)
