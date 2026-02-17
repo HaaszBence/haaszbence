@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi, I'm Haász Bence! 👋
+---
+### About Me
+I'm a student learning 🌟networking🌟 and a hobbyist 🌟coder🌟. I love building things and exploring new technologies in my free time.
 
-<!--
-**HaaszBence/haaszbence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### 🛠 Tech Stack
+- **Languages** 
+<img src="assets/images/python_icon.png" alt="python_icon" width="50" height="50"> <img src="assets/images/sql_icon.png" alt="sql_icon" width="50" height="50">
+- **Tools:**
+<img src="assets/images/git_icon.png" alt="git_icon" width="50" height="50"> <img src="assets/images/docker_icon.png" alt="docker_icon" width="50" height="50"> <img src="assets/images/linux_icon.png" alt="linux_icon" width="50" height="50">
+---
+### 📚 Currently Learning
+| <img src="assets/images/django_icon.png" alt="django_icon" width="50" height="50"> | <img src="assets/images/scripting_icon.png" alt="scripting_icon" width="50" height="50"> | <img src="assets/images/networking_icon.png" alt="networking_icon" width="50" height="50"> |
+| :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: |
+|                                       Django                                       |                                        Scripting                                         |                                         Networking                                         |
 
-Here are some ideas to get you started:
+---
+### 🔭 Looking forward to Learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| <img src="assets/images/rust_icon.png" alt="rust_icon" width="50" height="50"> | <img src="assets/images/cloud_networking_icon.png" alt="cloud_networking_icon" width="50" height="50"> | <img src="assets/images/gaming_icon.png" alt="gaming_icon" width="50" height="50"> |
+| :----------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
+|                                      Rust                                      |                                            Cloud Networking                                            |                             Game Engines & Development                             |
+
+- Cloud Networking
+- Game Engines & Game Development
+---
+### 📫 Reach out to Me
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaaszBence)
+[![Email](https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](haasz0.bence+github@gmail.com)
+---
+>>>>>>> 969bb7c (feat: updated README)
